@@ -3,10 +3,10 @@
 A Python Flask dashboard for visualizing product sales performance.
 
 ## Features
-- Product sales analysis
-- Bar chart visualization
-- Simple Flask web interface
-- Static chart generation with Matplotlib
+- Product sales visualization
+- Bar chart with Matplotlib
+- Flask web interface
+- Sales performance overview
 
 ## Technologies
 - Python
@@ -21,7 +21,7 @@ A Python Flask dashboard for visualizing product sales performance.
 This project helps analyze product performance and identify best-selling products through a simple visual dashboard.
 
 ## Future Improvements
-- Add CSV data upload
-- Add monthly sales filtering
-- Add revenue calculations
-- Improve UI design
+- CSV data upload
+- Monthly sales filtering
+- Revenue calculations
+- Improved UI design
